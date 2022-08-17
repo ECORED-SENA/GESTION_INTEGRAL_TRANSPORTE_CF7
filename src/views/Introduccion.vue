@@ -13,10 +13,10 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/YbsKSuLl8eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.BGIMG01.p-4.justify-content-center.mb-4
-      p Cuando se abordan temas relacionados con los costos en el transporte, es necesario indicar que existe la Economía del Transporte, la cual es una rama de la teoría económica que se ocupa del sector transporte y estudia el conjunto de elementos y principios que rigen el transporte de personas y bienes.
+      p Cuando se abordan temas relacionados con los costos en el transporte, es necesario indicar que existe la economía del transporte, la cual es una rama de la teoría económica que se ocupa del sector transporte y estudia el conjunto de elementos y principios que rigen el transporte de personas y bienes.
       p El transporte es considerado como una actividad que demanda valores económicos significativos y por tanto, cualquier cambio que se presente resulta contraproducente o no para dicha área y posteriormente para la cadena productiva en general. Dicha afectación significativa se presenta por cuanto la actividad de trasladar personas o cosas de un lugar a otro resulta imprescindible para cualquier actividad cuyo potencial pueda generar ingresos, así como se infiere de la figura 1.
       .col-md-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")

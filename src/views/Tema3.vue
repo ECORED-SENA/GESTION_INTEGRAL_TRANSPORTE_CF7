@@ -10,7 +10,7 @@
     SlyderA.slyder02.BGIMG02.p-4(tipo="b")(data-aos="fade-right")
       .row.justify-content-center.align-items-center
         .col-md-7.order-md-1.order-2
-          p Considerando que la Economía del transporte considera las externalidades relacionadas con el movimiento de bienes y/o personas, los análisis generalmente comienzan por recordar que los accidentes de tránsito además de generar daños materiales a los activos (vehículos, infraestructura, edificaciones, etc.), constituyen una de las principales causas de morbilidad (enfermedades) y de mortalidad (muertes) en el mundo.
+          p Considerando que la economía del transporte considera las externalidades relacionadas con el movimiento de bienes y/o personas, los análisis generalmente comienzan por recordar que los accidentes de tránsito además de generar daños materiales a los activos (vehículos, infraestructura, edificaciones, etc.), constituyen una de las principales causas de morbilidad (enfermedades) y de mortalidad (muertes) en el mundo.
           p Un accidente representa un enorme cargo en costos materiales y humanos. En lo material, los accidentes en el transporte representan su nivel de costo dependiendo de la gravedad de los daños, desde cero, hasta el valor del activo (ej. pérdida total), desde el punto de vista humano, representan elevados gastos como la atención en salud, durante y posterior al accidente, pérdida de días laborables y desde el punto de vista social, se presentan temas que indirectamente impactan la parte económica del negocio como la pérdida del prestigio de la empresa, demandas por daños morales y deterioro familiar entre otros.
         .col-md-3.col-6.mb-md-0.mb-4.order-md-2.order-1
           figure
@@ -32,7 +32,7 @@
             img(src='@/assets/curso/tema3/img03.jpg')
       .row.justify-content-center.align-items-center
         .col-md-7.order-md-1.order-2
-          p En el transporte marítimo, a nivel del continente europeo, se presentan en promedio por año 2.500 accidentes e incidentes vial reportados ante las autoridades marítimas de la Unión Europea, los cuales generalmente generan daños materiales sin que exista frecuencia de lesiones personales o afectaciones al medio ambiente.
+          p En el transporte marítimo, a nivel del continente europeo, se presentan en promedio por año 2.500 accidentes e incidentes viales reportados ante las autoridades marítimas de la Unión Europea, los cuales generalmente generan daños materiales sin que exista frecuencia de lesiones personales o afectaciones al medio ambiente.
           p Por otra parte, al hablar de Colombia, en modo de transporte aéreo encontramos que anualmente y en promedio se presentan 14 accidentes y alrededor de 11 incidentes, los primeros generalmente tienen como consecuencia víctimas además de daños materiales significativos y los segundos generan operaciones forzosas, cancelación de vuelos, cambios de tripulación, etc., todos ellos generando un impacto directo al costo. Un alto porcentaje de las anteriores cifras corresponden a aviones pequeños diferentes a las líneas comerciales tradicionales de gran envergadura, cuyo movimiento de carga y/o pasajeros es mayormente regulado.
         .col-md-3.col-6.mb-md-0.mb-4.order-md-2.order-1
           figure

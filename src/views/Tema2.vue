@@ -15,7 +15,7 @@
           .col-md-4.col-6.mb-md-0.mb-4(data-aos="fade-right")
             img(src='@/assets/curso/tema2/img01.png')
           .col-md-8
-            p El Costo se presenta por causa directa del producto o servicio generado y el Gasto es debido a las gestiones administrativas y comerciales de la empresa.
+            p El costo se presenta por causa directa del producto o servicio generado y el Gasto es debido a las gestiones administrativas y comerciales de la empresa.
       .col-md-6
         .row.justify-content-center.align-items-center
           .col-md-4.col-6.mb-md-0.mb-4(data-aos="fade-left")
@@ -53,12 +53,12 @@
 
     figure.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/tema2/img03.jpg')
-    p A continuación se presentará información sobre Costos fijos y Costos variables:       
+    p A continuación se presentará información sobre costos fijos y costos variables:       
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .row.justify-content-center.BGIMG03.py-3.py-md-4(titulo="Costos fijos")
         .col-md-6.order-md-1.order-2
-          p Con el objetivo de dar claridad al concepto es necesario indicar que la palabra COSTO se utiliza para nombrar el desembolso económico que se lleva a cabo para adquirir o mantener un producto o un servicio y por otra parte, algo FIJO es lo que es invariable o tiene estabilidad. 
+          p Con el objetivo de dar claridad al concepto es necesario indicar que la palabra #[strong COSTO] se utiliza para nombrar el desembolso económico que se lleva a cabo para adquirir o mantener un producto o un servicio y por otra parte, algo #[strong FIJO] es lo que es invariable o tiene estabilidad. 
           p Económicamente hablando, los costos fijos son aquellos desembolsos de la actividad empresarial que no dependen del nivel de producción, es decir, estos componen aquellos rubros que la empresa debe pagar independientemente de su nivel de operación, es decir, produzca o no debe cumplir con estos pagos.
           p Este tipo de costos implican gastos periódicos (mensuales, anuales, etc.) que pueden preverse, pero las empresas deben hacer todo lo posible por disminuirlos, ya que una reducción de costos fijos, le permitirá adaptarse a los altibajos operativos y manejar una adecuada gestión de costos. 
         .col-md-4.col-4.mb-4.mb-md-0.order-md-2.order-1
@@ -85,7 +85,7 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-md-4.col-6
-        h4.mb-0.text-center Amortización y Depreciación.
+        h4.mb-0.text-center Amortización y Depreciación
         figure
           img(src='@/assets/curso/tema2/img08.png')
 
