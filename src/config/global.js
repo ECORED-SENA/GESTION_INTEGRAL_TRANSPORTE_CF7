@@ -90,18 +90,6 @@ export default {
     ],
     subMenu: [
       {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
-      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -194,7 +182,7 @@ export default {
       referencia:
         'Aeronáutica Civil de Colombia. (2016). Investigación de accidentes e incidentes graves.',
       link:
-        'https://www.aerocivil.gov.co/autoridad-de-la-aviacion-civil/investigacion-de-accidentes-e-incidentes-graves',
+        'https://www.aerocivil.gov.co/autoridad-de-la-aviaci%C3%B3n-civil/investigacion-de-accidentes-e-incidentes-graves',
     },
     {
       referencia:
