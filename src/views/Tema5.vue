@@ -55,20 +55,9 @@
         figure
           img(src='@/assets/curso/tema2/img08.png')
 
-    p Corresponde a un nivel de producción, para el cual cuanto más producto se fabrica o adquieren, menos le cuesta a la empresa cada producto de manera individual. Por tanto, se logra un beneficio extra por cada unidad producida o vendida.
-    p Es un concepto tradicional del largo plazo en las sociedades y hace referencia directa a la reducción de los costos unitarios a medida que aumenta el tamaño de la empresa y su capacidad productiva.
-    p En la actualidad, dicha forma de minimización del costo e incremento de la utilidad también es lograda por la unión de esfuerzos entre compañías, para comprar mayores cantidades de insumos a menor precio o por la transformación compartida o complementada igualmente para minimizar los costos de producción, así como se evidencia en la figura 7.
-
-    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-      h5 Figura 7
-      span Economías de escala
-    
-    
-    .row.justify-content-center.mb-4
-      .col-md-10(data-aos="zoom-in")
-        img(src='@/assets/curso/tema5/img05.png')
-    
-
+    figure(data-aos="zoom-in")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/24y3mUUQwbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
