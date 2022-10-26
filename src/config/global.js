@@ -295,8 +295,23 @@ export default {
       },
       {
         nombre: 'Zuleidy Maria Ruiz Torres',
-        cargo: 'Producción audiovisual',
+        cargo: 'Revisión guion',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Ilustración',
+        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Revisión ilustración',
+        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Validación audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
