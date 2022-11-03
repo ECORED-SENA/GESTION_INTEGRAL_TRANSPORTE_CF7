@@ -7,20 +7,20 @@
         span 2
       h1 Costos y gastos
     
-    p Inicialmente, es necesario conocer los términos contables que a diario se utilizan y de los cuales resulta útil conocer su diferenciación. En este componente formativo se encontrarán frecuentemente los términos costo y gasto, he aquí su diferencia:
+    p.mb-5 Inicialmente, es necesario conocer los términos contables que a diario se utilizan y de los cuales resulta útil conocer su diferenciación. En este componente formativo se encontrarán frecuentemente los términos costo y gasto, he aquí su diferencia:
 
     .row.justify-content-center.mb-5
-      .col-md-6.mb-md-0.mb-4
+      .col-lg-6.mb-lg-0.mb-4
         .row.justify-content-center.align-items-center
-          .col-md-4.col-6.mb-md-0.mb-4(data-aos="fade-right")
+          .col-4(data-aos="fade-right")
             img(src='@/assets/curso/tema2/img01.png')
-          .col-md-8
+          .col-8
             p El costo se presenta por causa directa del producto o servicio generado y el Gasto es debido a las gestiones administrativas y comerciales de la empresa.
-      .col-md-6
+      .col-lg-6
         .row.justify-content-center.align-items-center
-          .col-md-4.col-6.mb-md-0.mb-4(data-aos="fade-left")
+          .col-4(data-aos="fade-left")
             img(src='@/assets/curso/tema2/img02.png')
-          .col-md-8
+          .col-8
             p El costo hace parte integrante del producto terminado, puede verse en dicho producto, mientras que el gasto no es percibido en el producto.
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -51,37 +51,38 @@
             td(colspan="3") Son salidas o giros de dinero que  ocurren por las relaciones que la empresa tiene con las instituciones bancarias y extrabancarias.
             td(colspan="7") Se presentan con ocasión del pago de: intereses corrientes, intereses moratorios, chequeras, comisiones por giros y remesas, entre otros.
 
-    figure.mb-4(data-aos="fade-right")
+    figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema2/img03.jpg')
+
     p A continuación se presentará información sobre costos fijos y costos variables:       
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
-      .row.justify-content-center.BGIMG03.py-3.py-md-4(titulo="Costos fijos")
-        .col-md-6.order-md-1.order-2
+      .row.justify-content-center.BGIMG03.py-3.py-lg-4(titulo="Costos fijos")
+        .col-lg-6.order-lg-1.order-2
           p Con el objetivo de dar claridad al concepto es necesario indicar que la palabra #[strong COSTO] se utiliza para nombrar el desembolso económico que se lleva a cabo para adquirir o mantener un producto o un servicio y por otra parte, algo #[strong FIJO] es lo que es invariable o tiene estabilidad. 
           p Económicamente hablando, los costos fijos son aquellos desembolsos de la actividad empresarial que no dependen del nivel de producción, es decir, estos componen aquellos rubros que la empresa debe pagar independientemente de su nivel de operación, es decir, produzca o no debe cumplir con estos pagos.
           p Este tipo de costos implican gastos periódicos (mensuales, anuales, etc.) que pueden preverse, pero las empresas deben hacer todo lo posible por disminuirlos, ya que una reducción de costos fijos, le permitirá adaptarse a los altibajos operativos y manejar una adecuada gestión de costos. 
-        .col-md-4.col-4.mb-4.mb-md-0.order-md-2.order-1
+        .col-lg-4.col-8.mb-4.mb-lg-0.order-lg-2.order-1
           figure
             img(src='@/assets/curso/tema2/img04.png')
             figcaption Nota. http://www.enciclopediafinanciera.com
-      .row.justify-content-center.BGIMG03.py-3.py-md-4(titulo="Costos variables")
-        .col-md-6.order-md-1.order-2
+      .row.justify-content-center.BGIMG03.py-3.py-lg-4(titulo="Costos variables")
+        .col-lg-6.order-lg-1.order-2
           p Los costos variables cambian en proporción a la actividad productiva de la empresa. Estos costos cambian según la cantidad de unidades producidas y se relacionan directamente con el uso de los recursos variables como la mano de obra y la cantidad de materia prima. 
           p En el transporte, la mano de obra se encuentra directamente asociada con el conductor y la materia prima con los gastos necesarios para la operación de los equipos, dentro de los cuales se encuentran, combustible, peajes, llantas, lubricación, etc.
-        .col-md-4.col-4.mb-4.mb-md-0.order-md-2.order-1
+        .col-lg-4.col-8.mb-4.mb-lg-0.order-lg-2.order-1
           figure
             img(src='@/assets/curso/tema2/img05.png')
             figcaption Nota. http://www.enciclopediafinanciera.com
-      .row.justify-content-center.BGIMG03.py-3.py-md-4(titulo="Costos de capital")
-        .col-md-6.order-md-1.order-2
+      .row.justify-content-center.BGIMG03.py-3.py-lg-4(titulo="Costos de capital")
+        .col-lg-6.order-lg-1.order-2
           p Corresponde a esa tasa mínima de rendimiento requerida por la empresa con el fin de definir un costo a los recursos financieros del proyecto de inversión, en este caso de una empresa o negocio de transporte.
           p Este costo de rendimiento, es el que la empresa debe pagar a sus inversionistas, ya sea los accionistas que financian mediante el denominado “capital social”, es decir sus aportes para la creación de la compañía o el costo de su financiación si es a través de deuda.
-        .col-md-4.col-4.mb-4.mb-md-0.order-md-2.order-1
+        .col-lg-4.col-8.mb-4.mb-lg-0.order-lg-2.order-1
           figure
             img(src='@/assets/curso/tema2/img06.png')
 
-    p En los costos de capital se pueden evidenciar los siguientes términos:
+    p.mb-5 En los costos de capital se pueden evidenciar los siguientes términos:
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-md-4.col-6
@@ -104,7 +105,20 @@
           span Amortización y depreciación
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img09.svg')
-          figcaption Nota. Fragoso, W., Garrido, E. y Solano, J. (2014).
+        .BGR05.p-3
+          .row.align-items-center
+            .col-lg-1.col-2
+              img(src='@/assets/curso/tema2/img10.svg')
+            .col
+              p.mb-0 <span style="color:#CC573C">#[b Depreciación]</span> se aplica al activo fijo tangible, ya que con el uso estos bienes valen menos, es decir, se deprecian.
+        .BGR05A.p-3
+          .row.align-items-center
+            .col-lg-1.col-2
+              img(src='@/assets/curso/tema2/img11.svg')
+            .col
+              p.mb-0 <span style="color:#CC573C">#[b Amortización]</span> solo se aplica a los activos diferidos o intangibles. Por ejemplo, si se ha comprado una marca comercial, esta con el paso del tiempo no baja o se deprecia, por lo que amortización significará el cargo anual para recuperar esa inversión.
+        .BG06.p-3
+          p.mb-0 Nota. Fragoso, W., Garrido, E. y Solano, J. (2014).
 
 </template>
 

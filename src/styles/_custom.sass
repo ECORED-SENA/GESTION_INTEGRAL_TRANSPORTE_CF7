@@ -49,9 +49,20 @@
 .BG04
   background: linear-gradient(to right, #F2EDFF,#fff)
 
+.BGR05
+  border: 2px dashed #C6563D
+
+.BGR05A
+  border-right: 2px dashed #C6563D
+  border-left: 2px dashed #C6563D
+  border-bottom: 2px dashed #C6563D
+
+.BG06
+  background-color: #F6F6F6
+
 .BGIMG01
   background-image: url("../assets/curso/intro/img03.png")
-  background-size: cover 
+  background-size: 100% 100% 
   background-repeat: no-repeat
   background-position: center
 
@@ -60,6 +71,7 @@
   background-size: cover 
   background-repeat: no-repeat
   background-position: center
+  border-radius: 15px
 
 .BGIMG03
   background-image: url("../assets/curso/tema2/img07.png")
@@ -74,6 +86,9 @@
   background-color: #73E8DC
   border-color: #73E8DC
 
+.slyder02 .slyder-a__bullets__item
+  background-color: #949CA8
+
 .slyder02 .slyder-a__tipo-b .slyder-a__btn--atrs, .slyder02 .slyder-a__tipo-b .slyder-a__btn--sigt
   background-color: #FFBA5B
 
@@ -86,10 +101,12 @@
 
 .tabs-c.color-acento-contenido .tabs-c__tab--active
   background-color: #FFF1DE
+  color: $black
 
 .tabs-c__tab
   border-bottom: #5B4794
   background-color: #5B4794
+  color: $white
 
 .tabs-c__header
   margin-bottom: 0
@@ -102,3 +119,11 @@
 
 .bloque-texto-c:after
   background-color: #FF6D4B
+
+.BGIMG01
+  margin-inline: -3.2rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.4rem !important
+
+.slyder__btn
+  background-color: #73E8DC

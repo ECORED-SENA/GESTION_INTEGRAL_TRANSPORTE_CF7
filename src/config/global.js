@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Costeo de la operación',
     descripcionCurso:
       'El presente componente de formación busca que el aprendiz logre identificar los valores y/o costos implicados en la actividad del transporte, mediante los cuales será viable determinar la rentabilidad del mismo y facilitar la toma de decisiones tanto administrativas como operativas durante la ejecución.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -301,17 +301,20 @@ export default {
       {
         nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Ilustración',
-        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Revisión ilustración',
-        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gilberto Junior Rodriguez Rodriguez',
         cargo: 'Validación audiovisual',
-        centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',

@@ -10,27 +10,32 @@
     p Corresponde a una serie de informes que permiten ver en cifras el funcionamiento de una empresa. Al ser analizados correctamente, las cifras permitirán obtener información pertinente para la toma de decisiones sobre el futuro de la compañía.
     p Los estados financieros deben ser elaborados por personas idóneas que garanticen el cumplimiento de tres características primordiales: confiabilidad, equidad y comprensibilidad.
 
-    .row.justify-content-center.BG04.p-4.mb-4
-      .col-md-5.col-10.mb-md-0.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.BG04.p-4.mb-4
+      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema4/img01.jpg')
-      .col-md-6(data-aos="fade-left")
+      .col-lg-6(data-aos="fade-left")
         p Los estados financieros básicos de una empresa son, ver la figura 6:
         ul.lista-ul
-          li 
-            i.fas.fad.fa-circle(style="color: #FF6D4B;")
+          <li style="margin-bottom: 2px"> 
+            <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
             |	Balance general
-          li 
-            i.fas.fad.fa-circle(style="color: #FF6D4B;")
+          </li>
+          <li style="margin-bottom: 2px"> 
+            <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
             |	Estado de resultados
-          li 
-            i.fas.fad.fa-circle(style="color: #FF6D4B;")
+          </li>
+          <li style="margin-bottom: 2px"> 
+            <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
             |	Estado de cambios en el patrimonio
-          li 
-            i.fas.fad.fa-circle(style="color: #FF6D4B;")
+          </li>
+          <li style="margin-bottom: 2px"> 
+            <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
             |	Estado de cambios en la situación financiera
-          li 
-            i.fas.fad.fa-circle(style="color: #FF6D4B;")
+          </li>
+          <li style="margin-bottom: 2px"> 
+            <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
             |	Estado de flujos de efectivo.
+          </li>
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 6
@@ -54,6 +59,7 @@
           .col-auto
             a.boton.indicador__container(@click="modal1 = true")
               span Observar
+              <i class="fas fa-search" style="color: #73E8DC; background-color: #000; padding: 3px; border-radius: 5px"></i>
               .indicador--click(v-if="mostrarIndicador")  
         ModalA(:abrir-modal.sync="modal1")
           .row.align-items-center
@@ -72,6 +78,7 @@
           .col-auto
             a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
               span Observar
+              <i class="fas fa-search" style="color: #73E8DC; background-color: #000; padding: 3px; border-radius: 5px"></i>
         ModalA(:abrir-modal.sync="modal2")
           .row.align-items-center
             .col-md-11

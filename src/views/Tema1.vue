@@ -57,13 +57,40 @@
             figcaption Nota. Comercio en el imperio Romano 
         .col-md-6
           p El transporte aéreo, ha significado costos muy superiores a los de otros medios de transporte, aunque los avances tecnológicos han conllevado ganancias de productividad al conseguir incrementar el volumen de las mercancías que pueden ser transportadas por este medio, adicionalmente ha supuesto un beneficio para el transporte de pasajeros y para las cargas perecederas, frágiles, de alto valor y urgentes.
-
+    
+    separador
     .BGIMG01.p-4.mb-4
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.1 Elementos a considerar
       p.text-center Al analizar el transporte, se hace necesario considerar temas relevantes como:
 
-      SlyderB.mb-5(:datos="datosSlyder")
+      SlyderE.mb-5(indicadores="derecha")
+        .row.justify-content-center.align-items-center
+          .col-lg-6.order-lg-1.order-2
+            p <b>Tecnología de producción infraestructura y servicios</b>. Formas de financiación (impuestos, fondos especiales, transferencias, subvenciones, precios y tasas, Deuda Pública, bonos, fondos propios, mercados de capitales, concesiones, etc.), diseño, construcción, operación y mantenimiento. Es un elemento a considerar ya que su costo repercute en la economía de acuerdo con la escala considerada.<br><br><b>El tiempo de los usuarios como “<em>input</em>” (dato de entrada)</b>. Cada modo de transporte se diferencia de los demás por sus diferentes características, cada uno tiene ventajas y desventajas diferentes a los demás. En la actualidad el nivel de servicio es medido por indicadores tales como el denominado “<em>Just at time</em>” (justo a tiempo) que finalmente direcciona y condiciona la demanda de los servicios de transporte principalmente en su relacionamiento directo con el tiempo ya que este concepto tiene relación directa con la vida útil de los productos y el tiempo de los pasajeros.
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            img(src='@/assets/curso/tema1/img08.jpg')
+        .row.justify-content-center.align-items-center
+          .col-lg-6.order-lg-1.order-2
+            p <b>Carácter no almacenable e indivisible de los servicios</b>. Tamaño de vehículos y frecuencia de viajes, son factores que inciden en la calidad pero también en los costos del servicio. Al tener el almacenamiento un costo, este repercute en el transporte ya que algunos elementos transportados no pueden ser almacenados (perecederos) o fraccionados (seres humanos).<br><br><b>Inversión óptima en infraestructura</b>. La planeación deberá tener enfoques de largo plazo y propender por la modulación y escalonamiento de los proyectos, cuando no sea factible la utilización de fondos de fomento. Las inversiones tienen relación directa con el flujo de capitales.
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            img(src='@/assets/curso/tema1/img09.jpg')
+        .row.justify-content-center.align-items-center
+          .col-lg-6.order-lg-1.order-2
+            p <b>Competencia ilimitada y necesidad de regulación</b>. El transporte es una necesidad básica, si lo analizamos en detalle, encontraremos que el transporte juega un papel fundamental en cualquier tipo de negocio, el transporte siempre es necesario y por tanto, requiere del uso de la infraestructura vial y del espacio público destinado para la locomoción. Al ser un servicio público se hace necesaria la participación de los entes reguladores por parte del Estado, ya que el hecho de existir libre competencia no significa que las empresas puedan incurrir en malas prácticas de mercado que pueden resultar lesivas para las demás empresas (competidores) o para sí misma. Lo anterior de cualquier modo sugiere que la libre competencia busca y/o genera la optimización de costos y la mejora en la calidad, llevando estos dos conceptos a la dinámica económica del transporte.<br><br><b>Efectos de red</b>. El efecto de red, se traduce en economías de costos cuando crece el número de usuarios, lo que facilita mayores frecuencias que reducen los tiempos de espera, y en la obtención de economías de escala asociadas al diseño de líneas troncalizadas con sistema de alimentación.
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            img(src='@/assets/curso/tema1/img10.jpg')
+        .row.justify-content-center.align-items-center
+          .col-lg-6.order-lg-1.order-2
+            p <b>Costos del productor, del usuario y sociales ¿Quién paga?</b> Lo justo es que quien obtenga los beneficios, no se desentienda de los costos y que quien contamine pague. Lo anterior se traduce en movimiento de capitales en torno al transporte.<br><br><b>Obligaciones asociadas al carácter de servicio público</b>. Al ser el transporte un servicio público esencial, El estado y las empresas prestadoras del servicio, se encuentran abocadas a garantizar la permanencia y continuidad del servicio, ya sea que sea necesario compensar rutas deficitarias con rutas rentables. Incluso el estado puede llegar a participar con fondos destinados a la generación de subsidios que permitan prestar servicios que económicamente no son rentables, pero que socialmente son necesarios y significan calidad de vida para los usuarios.
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            img(src='@/assets/curso/tema1/img11.jpg')
+        .row.justify-content-center.align-items-center
+          .col-lg-6.order-lg-1.order-2
+            p <b>Infraestructura y crecimiento</b>. Enfoques macro y micro: la inversión en infraestructura para países pobres, que al ser intensiva en mano de obra eleva el ingreso per cápita y resuelve problemas estructurales, antes que ser inflacionaria, es factor de desarrollo.<br><br><b>Externalidades negativas</b>. Costo social y humano derivado de los accidentes provocados por diversas causas, contaminación ambiental y accidentalidad.
+          .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            img(src='@/assets/curso/tema1/img12.jpg')
+      
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Teorías 
@@ -80,35 +107,7 @@
 export default {
   name: 'Tema1',
   components: {},
-  data: () => ({
-    datosSlyder: [
-      {
-        texto:
-          '<b>Tecnología de producción infraestructura y servicios</b>. Formas de financiación (impuestos, fondos especiales, transferencias, subvenciones, precios y tasas, Deuda Pública, bonos, fondos propios, mercados de capitales, concesiones, etc.), diseño, construcción, operación y mantenimiento. Es un elemento a considerar ya que su costo repercute en la economía de acuerdo con la escala considerada.<br><br><b>El tiempo de los usuarios como “<em>input</em>” (dato de entrada)</b>. Cada modo de transporte se diferencia de los demás por sus diferentes características, cada uno tiene ventajas y desventajas diferentes a los demás. En la actualidad el nivel de servicio es medido por indicadores tales como el denominado “<em>Just at time</em>” (justo a tiempo) que finalmente direcciona y condiciona la demanda de los servicios de transporte principalmente en su relacionamiento directo con el tiempo ya que este concepto tiene relación directa con la vida útil de los productos y el tiempo de los pasajeros.',
-        imagen: require('@/assets/curso/tema1/img08.jpg'),
-      },
-      {
-        texto:
-          '<b>Carácter no almacenable e indivisible de los servicios</b>. Tamaño de vehículos y frecuencia de viajes, son factores que inciden en la calidad pero también en los costos del servicio. Al tener el almacenamiento un costo, este repercute en el transporte ya que algunos elementos transportados no pueden ser almacenados (perecederos) o fraccionados (seres humanos).<br><br><b>Inversión óptima en infraestructura</b>. La planeación deberá tener enfoques de largo plazo y propender por la modulación y escalonamiento de los proyectos, cuando no sea factible la utilización de fondos de fomento. Las inversiones tienen relación directa con el flujo de capitales.',
-        imagen: require('@/assets/curso/tema1/img09.jpg'),
-      },
-      {
-        texto:
-          '<b>Competencia ilimitada y necesidad de regulación</b>. El transporte es una necesidad básica, si lo analizamos en detalle, encontraremos que el transporte juega un papel fundamental en cualquier tipo de negocio, el transporte siempre es necesario y por tanto, requiere del uso de la infraestructura vial y del espacio público destinado para la locomoción. Al ser un servicio público se hace necesaria la participación de los entes reguladores por parte del Estado, ya que el hecho de existir libre competencia no significa que las empresas puedan incurrir en malas prácticas de mercado que pueden resultar lesivas para las demás empresas (competidores) o para sí misma. Lo anterior de cualquier modo sugiere que la libre competencia busca y/o genera la optimización de costos y la mejora en la calidad, llevando estos dos conceptos a la dinámica económica del transporte.<br><br><b>Efectos de red</b>. El efecto de red, se traduce en economías de costos cuando crece el número de usuarios, lo que facilita mayores frecuencias que reducen los tiempos de espera, y en la obtención de economías de escala asociadas al diseño de líneas troncalizadas con sistema de alimentación.',
-        imagen: require('@/assets/curso/tema1/img10.jpg'),
-      },
-      {
-        texto:
-          '<b>Costos del productor, del usuario y sociales ¿Quién paga?</b> Lo justo es que quien obtenga los beneficios, no se desentienda de los costos y que quien contamine pague. Lo anterior se traduce en movimiento de capitales en torno al transporte.<br><br><b>Obligaciones asociadas al carácter de servicio público</b>. Al ser el transporte un servicio público esencial, El estado y las empresas prestadoras del servicio, se encuentran abocadas a garantizar la permanencia y continuidad del servicio, ya sea que sea necesario compensar rutas deficitarias con rutas rentables. Incluso el estado puede llegar a participar con fondos destinados a la generación de subsidios que permitan prestar servicios que económicamente no son rentables, pero que socialmente son necesarios y significan calidad de vida para los usuarios.',
-        imagen: require('@/assets/curso/tema1/img11.jpg'),
-      },
-      {
-        texto:
-          '<b>Infraestructura y crecimiento</b>. Enfoques macro y micro: la inversión en infraestructura para países pobres, que al ser intensiva en mano de obra eleva el ingreso per cápita y resuelve problemas estructurales, antes que ser inflacionaria, es factor de desarrollo.<br><br><b>Externalidades negativas</b>. Costo social y humano derivado de los accidentes provocados por diversas causas, contaminación ambiental y accidentalidad.',
-        imagen: require('@/assets/curso/tema1/img12.jpg'),
-      },
-    ],
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
