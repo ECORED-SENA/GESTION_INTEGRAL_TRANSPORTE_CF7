@@ -103,7 +103,7 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 3
           span Amortización y depreciación
-        figure(data-aos="zoom-in")
+        figure.mb-4(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img09.svg')
         .BGR05.p-3
           .row.align-items-center

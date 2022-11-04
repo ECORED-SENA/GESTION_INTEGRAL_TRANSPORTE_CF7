@@ -59,7 +59,7 @@
           p El transporte aéreo, ha significado costos muy superiores a los de otros medios de transporte, aunque los avances tecnológicos han conllevado ganancias de productividad al conseguir incrementar el volumen de las mercancías que pueden ser transportadas por este medio, adicionalmente ha supuesto un beneficio para el transporte de pasajeros y para las cargas perecederas, frágiles, de alto valor y urgentes.
     
     separador
-    .BGIMG01.p-4.mb-4
+    .BGIMG01.p-md-5.p-4.mb-4
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.1 Elementos a considerar
       p.text-center Al analizar el transporte, se hace necesario considerar temas relevantes como:
