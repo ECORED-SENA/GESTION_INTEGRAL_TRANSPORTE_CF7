@@ -22,11 +22,11 @@
             </li>
             <li style="margin-bottom: 2px">
               <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-              |	Una estrategia financiera para el cubrimiento de las deudas
+              |	Una estrategia financiera para el cubrimiento de las deudas.
             </li>
             <li style="margin-bottom: 2px">
               <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-              |	Un panorama que permita definir la solidez de la empresa para su funcionamiento y participación en un proceso contractual
+              |	Un panorama que permita definir la solidez de la empresa para su funcionamiento y participación en un proceso contractual.
             </li>
 
     p La lectura del estado de resultados, el cual puede ser emitido anualmente para la junta directiva de las compañías, pero que es costumbre en muchas de ellas realizarlo con una periodicidad menor, incluso mensualmente, permite mantener una trazabilidad de la operación, evidenciando los ingresos periódicos, a los cuales se descuentan los gastos y nos genera el resultado inicial de la operación. Posteriormente a dicho resultado se hace necesario descontar lo correspondiente a los gastos financieros por concepto del apalancamiento económico para la operación (cuotas por préstamos y sus correspondientes intereses). Finalmente, al resultado anteriormente obtenido se descuentan los valores correspondientes a los impuestos para obtener el resultado completo de dicha operación.

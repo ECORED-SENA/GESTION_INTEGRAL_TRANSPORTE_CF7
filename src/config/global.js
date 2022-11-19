@@ -47,7 +47,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Elemntos a considerar',
+            titulo: 'Elementos a considerar',
             hash: 't_1_1',
           },
           {
@@ -235,7 +235,6 @@ export default {
     {
       referencia:
         'SALHER Soluciones Ambientales. (2019). Seguridad: Pirámide de control de riesgos. CLUSMIN Clúster Minero de Zacatecas.',
-      link: 'https://clusmin.org/seguridad/',
     },
     {
       referencia:

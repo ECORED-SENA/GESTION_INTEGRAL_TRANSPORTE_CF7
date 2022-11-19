@@ -18,19 +18,19 @@
         ul.lista-ul
           <li style="margin-bottom: 2px"> 
             <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-            |	Balance general
+            |	Balance general.
           </li>
           <li style="margin-bottom: 2px"> 
             <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-            |	Estado de resultados
+            |	Estado de resultados.
           </li>
           <li style="margin-bottom: 2px"> 
             <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-            |	Estado de cambios en el patrimonio
+            |	Estado de cambios en el patrimonio.
           </li>
           <li style="margin-bottom: 2px"> 
             <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>
-            |	Estado de cambios en la situación financiera
+            |	Estado de cambios en la situación financiera.
           </li>
           <li style="margin-bottom: 2px"> 
             <i class="fas fa-circle" style="color: #FF6D4B; font-size: x-small"></i>

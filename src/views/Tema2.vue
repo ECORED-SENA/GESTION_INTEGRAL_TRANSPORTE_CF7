@@ -59,8 +59,8 @@
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .row.justify-content-center.BGIMG03.py-3.py-lg-4(titulo="Costos fijos")
         .col-lg-6.order-lg-1.order-2
-          p Con el objetivo de dar claridad al concepto es necesario indicar que la palabra #[strong COSTO] se utiliza para nombrar el desembolso económico que se lleva a cabo para adquirir o mantener un producto o un servicio y por otra parte, algo #[strong FIJO] es lo que es invariable o tiene estabilidad. 
-          p Económicamente hablando, los costos fijos son aquellos desembolsos de la actividad empresarial que no dependen del nivel de producción, es decir, estos componen aquellos rubros que la empresa debe pagar independientemente de su nivel de operación, es decir, produzca o no debe cumplir con estos pagos.
+          p Con el objetivo de dar claridad al concepto es necesario indicar que la palabra #[strong COSTO] se utiliza para nombrar el desembolso económico que se lleva a cabo para adquirir o mantener un producto o un servicio y, por otra parte, algo #[strong FIJO] es lo que es invariable o tiene estabilidad. 
+          p Económicamente hablando, los costos fijos son aquellos desembolsos de la actividad empresarial que no dependen del nivel de producción, es decir, estos componen aquellos rubros que la empresa debe pagar independientemente de su nivel de operación, es decir, produzca o no, debe cumplir con estos pagos.
           p Este tipo de costos implican gastos periódicos (mensuales, anuales, etc.) que pueden preverse, pero las empresas deben hacer todo lo posible por disminuirlos, ya que una reducción de costos fijos, le permitirá adaptarse a los altibajos operativos y manejar una adecuada gestión de costos. 
         .col-lg-4.col-8.mb-4.mb-lg-0.order-lg-2.order-1
           figure
@@ -93,7 +93,7 @@
     .row.justify-content-center.mb-5
       .col-md-6.col-10.BG02.p-4.mb-md-0.mb-4(data-aos="fade-right")
         p Se asocian con el deterioro o desgaste que sufre un activo en el tiempo y por tanto su pérdida de valor que debe ser registrada en libros contables, como ejemplo se puede revisar el contenido de la figura 3.
-        p.mb-0 La amortización se encuentra relacionada con la pérdida de valor en el tiempo de aquello activos intangibles, es decir, aquellos que no se pueden palpar y están asociados con temas como la marca, el derecho intelectual, los acuerdos contractuales, entre otros y los activos diferibles por los cuales la empresa paga sin que necesariamente ya exista uso del bien adquirido.
+        p.mb-0 La amortización se encuentra relacionada con la pérdida de valor en el tiempo de aquellos activos intangibles, es decir, aquellos que no se pueden palpar y están asociados con temas como la marca, el derecho intelectual, los acuerdos contractuales, entre otros y los activos diferibles por los cuales la empresa paga sin que necesariamente ya exista uso del bien adquirido.
       .col-md-6.col-10.BG03.p-4(data-aos="fade-left")
         p Por otra parte, la depreciación, igualmente busca registrar contablemente la pérdida de valor en el tiempo, pero en este caso de los activos fijos, los cuales son palpables como la maquinaria, los equipos, las construcciones, etc. Valga aclarar que los terrenos ni se amortizan, ni se deprecian ya que son los únicos activos que no pierden valor en el tiempo.
         p.mb-0 El costo de financiarse con el crédito de los proveedores es denominado el costo de oportunidad pero implica no tener los descuentos por el pronto pago que estos ofrecen. El patrimonio es la fuente más costosa para la empresa, generalmente el costo de capital se calcula como un costo efectivo después de impuestos.
