@@ -73,7 +73,7 @@
             img(src='@/assets/curso/tema4/img04.png')
           .col-md-10
             .h4 Estado de resultados
-            p.mb-0 Mediante este documento es posible evidenciar la situación financiera de una empresa, ya que allí se plasman los activos, pasivos y el patrimonio durante un periodo específico, es decir, lo que la empresa tiene, lo que debe y los aportes de los socios.
+            p.mb-0 En este documento se evidencia el detalle de la operación, es decir de la aplicación del objeto social de la empresa, evidenciando los costos, los gastos y los ingresos que permiten evidenciar posteriormente la rentabilidad y la utilidad. Es también conocido como Estado de pérdidas y ganancias.
         .row.justify-content-center
           .col-auto
             a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
