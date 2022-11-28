@@ -95,6 +95,11 @@ export default {
         titulo: 'Glosario',
       },
       {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -113,16 +118,26 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: '3. Costos de los accidentes en el transporte',
+      referencia:
+        'Ministerio de Transportes, Movilidad y Agenda Urbana. (2021). Informes oficiales sobre accidentes marítimos. España.',
+      tipo: 'Página web',
+      link:
+        'https://www.mitma.gob.es/marina-mercante/informes-oficiales-sobre-accidentes-maritimos/comision-permanente-de-investigacion-de-siniestros-maritimos',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3. Costos de los accidentes en el transporte',
+      referencia:
+        'Gutiérrez, I. (2020). ¿Qué es el costo de capital y cuál es su importancia?.  Muy Financiero.',
+      tipo: 'Página web',
+      link: 'http://www.muyfinanciero.com/conceptos/costo-de-capital/',
+    },
+    {
+      tema: '5. Criterios de decisión.',
+      referencia:
+        'Pérez, J., Merino, M. (2017). Definición de costo fijo. Definicion.de.',
+      tipo: 'Página web',
+      link: 'https://definicion.de/costo-fijo/',
     },
   ],
   glosario: [
