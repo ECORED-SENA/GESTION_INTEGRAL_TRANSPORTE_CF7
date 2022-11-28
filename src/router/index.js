@@ -67,6 +67,14 @@ const router = new VueRouter({
         ),
     },
     {
+      path: '/complementario',
+      name: 'complementario',
+      component: () =>
+        import(
+          /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
+        ),
+    },
+    {
       path: '/referencias',
       name: 'referencias',
       component: () =>
